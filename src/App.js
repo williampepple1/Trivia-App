@@ -55,7 +55,7 @@ function App()  {
     )}
    </div>
       ) : (
-        <h2 className='text-2xl text-white font-bold'>Loading...</h2>
+        <h2 className='text-2xl text-white stuff font-bold'>Loading...</h2>
       )
     
   }
