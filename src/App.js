@@ -45,7 +45,7 @@ function App()  {
       <div className="container">
      {currentIndex >= questions.length ? (
       
-    <h1 className="text-3xl text-white font-bold justify-center items-center">The Game Has Ended! <br/> Your Score is {score}.
+    <h1 className="text-3xl text-white stuff font-bold justify-center items-center">The Game Has Ended! <br/> Your Score is {score}.
     </h1>
     ) : (
      <Questionaire data={questions[currentIndex]} 

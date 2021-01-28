@@ -1,0 +1,9 @@
+@media screen and (max-width: 500px){
+    .stuff{
+    margin: 0 auto !important;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px ;   
+}
+}
+    
